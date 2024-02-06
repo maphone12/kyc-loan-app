@@ -1,0 +1,14 @@
+export {default as Splash} from './Splash';
+export {default as Onboarding} from './Onboarding';
+export {default as Login} from './Login';
+export {default as Registered} from './Registered';
+export {default as Agree} from './Agree';
+export {default as Success} from './Success';
+export {default as Otp} from './Otp';
+export {default as HomeScreen} from '../src/HomeScreen';
+export {default as Tabs} from '../navigations/TabsBar';
+export {default as UserType} from '../src/ApplicationForm/UserType';
+export {default as ApplicatioForm} from '../src/ApplicationForm/ApplicationForm';
+export {default as Guarantor} from '../src/ApplicationForm/Guarantor';
+export {default as TransferAmount} from '../src/ApplicationForm/TransferAmount';
+export {default as RegistSuccess} from '../src/ApplicationForm/RegistSuccess';

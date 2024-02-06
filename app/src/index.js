@@ -1,0 +1,17 @@
+export {default as Settings} from './Settings/Settings';
+export {default as TopNews} from './News/News';
+export {default as Notifications} from './Notificatios/Notifications';
+export {default as Loancontract} from './Loans/Loancontract';
+export {default as LocationMaps} from './Maps/Maps';
+export {default as Paidlist} from './Playments/Paidlist';
+export {default as Promotions} from './News/Promotions';
+export {default as Playmentlist} from './Playments/Playmentlist';
+export {default as Loanitems} from './Loans/Loanitems';
+export {default as Calculators} from './Calculator/Calculators';
+export {default as LoanDetail} from './Loans/LoanDetail';
+export {default as LoanDetailPaid} from './Loans/LoanDetailPaid';
+export {default as PlaymentLoan} from './Loans/PlaymentLoan';
+export {default as PlaymentNormal} from './Loans/PlaymentNormal';
+export {default as PaidlistNormal} from './Playments/PaidlistNormal';
+export {default as PlaymentChannels} from './services/PlaymentChannels';
+export {default as PaidListDetail} from './Playments/PaidListDetail';
